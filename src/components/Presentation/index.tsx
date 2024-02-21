@@ -2,7 +2,7 @@ import * as Styled from './styles';
 
 function Presentation() {
     const handleContact = () => {
-        console.log('contact');
+        window.open('mailto:lucaslcfjf@hotmail.com', '_blank');
     };
 
     return (
@@ -10,7 +10,7 @@ function Presentation() {
             <Styled.Content>
                 <Styled.ProfileBox>
                     <Styled.ImgProfile
-                        src="./assets/profile.jpg"
+                        src="./assets/profile.png"
                         alt="Imagem de Lucas Lino"
                     />
                 </Styled.ProfileBox>
