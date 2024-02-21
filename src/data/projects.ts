@@ -4,7 +4,7 @@ export const projectsData: ProjectType[] = [
     {
         id: '1',
         name: 'Portfólio',
-        thumbnail: './assets/projects/portfolio/HomePage-tmp.png',
+        thumbnail: './assets/projects/portfolio/HomePage.png',
         createAt: '2024-02-22T14:40:17.380Z',
         descriptions: [
             'Bem-vindo ao meu portfólio! Sou um desenvolvedor front-end apaixonado por criar experiências web envolventes e funcionais. Com uma combinação de habilidades em HTML, CSS e JavaScript, junto com frameworks modernos como React Angular, e outros, estou constantemente buscando desafios que me permitam elevar o padrão de design e usabilidade na web.',
